@@ -31,7 +31,7 @@ const MainContainer = () => {
 
         <Route path={paths.starships.href}>
           <>
-            <Starships />
+            <Starships/>
             <div className="p-3">
               <p className="font-bold text-xl"># TODO</p>
               <p>
